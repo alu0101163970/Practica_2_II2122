@@ -50,6 +50,10 @@ Como observamos el movimiento que observamos en el cubo no son los que habitualm
 
 ## Apartado 2
 
+Resultado:  
+![](./img/2.gif) 
+
+Observamos como podemos mover y rotar el cubo rojo ya sea con las flechas o con el WASD y rotar sobre su eje OY con las teclas 'z'(antihorario) y 'x'(horario). Así como cambiar los parámetros para cambiar entre flechas y wasd, la velocidad de movimiento y la velocidad de rotación.
 
 <div name="id3" />
 
